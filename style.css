@@ -49,15 +49,18 @@ h1 {
 }
 
 #start {
-	background-color: #009779;
+	background-color: #000000;
+	color: white;
 }
 
 #stop {
-	background-color: #0e85fc;
+	background-color: #000000;
+	color: white;
 }
 
 #reset {
-	background-color: #c91400;
+	background-color: #000000;
+	color: white;
 }
 #time {
 	border: 1px solid white;
